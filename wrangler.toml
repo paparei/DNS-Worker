@@ -39,7 +39,7 @@ binding = "DB"
 database_name = "dns_worker_db"
 # Only need to provide your actual D1 `database_id` when using D1; no configuration is required if you choose Turso.
 # 仅在使用 D1 时需要填写您的真实 D1 database_id；选择 Turso 时无需配置。
-database_id = "13d8c24f-064a-40d6-8b10-fa70bb3f79ab"
+database_id = "69a3463e-d785-4bc9-b362-a403a3ff078a"
 
 [triggers]
 # Run scheduled maintenance tasks every minute.
